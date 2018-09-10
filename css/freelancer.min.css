@@ -360,3 +360,6 @@ a:hover {
   margin: 5%;
   padding: 2%;
 }
+.img-fluid {
+  height: 250px;
+}
